@@ -1,0 +1,402 @@
+[
+    {
+        "customer_name": "Bianca Gomez",
+        "customer_id": "C001",
+        "date_of_birth": "1990-06-03",
+        "gender": false,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Matthew Sweeney",
+        "customer_id": "C002",
+        "date_of_birth": "1963-03-31",
+        "gender": true,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Sally Woods",
+        "customer_id": "C003",
+        "date_of_birth": "1952-05-10",
+        "gender": true,
+        "category": "Elder",
+        "premium": true
+    },
+    {
+        "customer_name": "Juan Park",
+        "customer_id": "C004",
+        "date_of_birth": "1980-08-03",
+        "gender": true,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Mary Day",
+        "customer_id": "C005",
+        "date_of_birth": "1988-03-24",
+        "gender": true,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Stephen Arnold",
+        "customer_id": "C006",
+        "date_of_birth": "2025-02-21",
+        "gender": false,
+        "category": "Infant",
+        "premium": false
+    },
+    {
+        "customer_name": "Dennis Decker",
+        "customer_id": "C007",
+        "date_of_birth": "1981-02-10",
+        "gender": false,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Angela Cisneros",
+        "customer_id": "C008",
+        "date_of_birth": "1973-09-23",
+        "gender": false,
+        "category": "Adult",
+        "premium": false
+    },
+    {
+        "customer_name": "Sonya Lopez",
+        "customer_id": "C009",
+        "date_of_birth": "1992-07-13",
+        "gender": false,
+        "category": "Adult",
+        "premium": false
+    },
+    {
+        "customer_name": "Alicia Sullivan",
+        "customer_id": "C010",
+        "date_of_birth": "1960-04-10",
+        "gender": false,
+        "category": "Elder",
+        "premium": false
+    },
+    {
+        "customer_name": "Todd Figueroa",
+        "customer_id": "C011",
+        "date_of_birth": "2021-06-03",
+        "gender": false,
+        "category": "Child",
+        "premium": false
+    },
+    {
+        "customer_name": "Christopher Richard",
+        "customer_id": "C012",
+        "date_of_birth": "1981-05-28",
+        "gender": true,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Travis Nichols",
+        "customer_id": "C013",
+        "date_of_birth": "1932-03-02",
+        "gender": false,
+        "category": "Elder",
+        "premium": false
+    },
+    {
+        "customer_name": "Ashley Murray",
+        "customer_id": "C014",
+        "date_of_birth": "1991-12-27",
+        "gender": false,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Mary Parker",
+        "customer_id": "C015",
+        "date_of_birth": "1937-12-27",
+        "gender": false,
+        "category": "Elder",
+        "premium": true
+    },
+    {
+        "customer_name": "Lori Clark",
+        "customer_id": "C016",
+        "date_of_birth": "1977-02-22",
+        "gender": true,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Jason Elliott",
+        "customer_id": "C017",
+        "date_of_birth": "1999-12-09",
+        "gender": true,
+        "category": "Adult",
+        "premium": false
+    },
+    {
+        "customer_name": "Cassidy Bush",
+        "customer_id": "C018",
+        "date_of_birth": "1961-04-09",
+        "gender": true,
+        "category": "Adult",
+        "premium": false
+    },
+    {
+        "customer_name": "Joe Romero",
+        "customer_id": "C019",
+        "date_of_birth": "2019-12-25",
+        "gender": false,
+        "category": "Child",
+        "premium": true
+    },
+    {
+        "customer_name": "Janice Hudson",
+        "customer_id": "C020",
+        "date_of_birth": "1933-08-15",
+        "gender": true,
+        "category": "Elder",
+        "premium": true
+    },
+    {
+        "customer_name": "Sean Grant",
+        "customer_id": "C021",
+        "date_of_birth": "2002-09-06",
+        "gender": true,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Ashley Hubbard",
+        "customer_id": "C022",
+        "date_of_birth": "1953-12-26",
+        "gender": true,
+        "category": "Elder",
+        "premium": false
+    },
+    {
+        "customer_name": "Julie Brown",
+        "customer_id": "C023",
+        "date_of_birth": "1983-06-03",
+        "gender": true,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Brent Gutierrez",
+        "customer_id": "C024",
+        "date_of_birth": "1949-11-15",
+        "gender": true,
+        "category": "Elder",
+        "premium": false
+    },
+    {
+        "customer_name": "Kimberly Levy",
+        "customer_id": "C025",
+        "date_of_birth": "1976-01-18",
+        "gender": true,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Miss Mary Burgess",
+        "customer_id": "C026",
+        "date_of_birth": "1966-07-05",
+        "gender": true,
+        "category": "Adult",
+        "premium": false
+    },
+    {
+        "customer_name": "Benjamin Valencia",
+        "customer_id": "C027",
+        "date_of_birth": "1940-10-26",
+        "gender": false,
+        "category": "Elder",
+        "premium": true
+    },
+    {
+        "customer_name": "Zachary Crawford",
+        "customer_id": "C028",
+        "date_of_birth": "2004-07-06",
+        "gender": false,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Antonio Walker",
+        "customer_id": "C029",
+        "date_of_birth": "1949-09-08",
+        "gender": false,
+        "category": "Elder",
+        "premium": true
+    },
+    {
+        "customer_name": "Angela Jones",
+        "customer_id": "C030",
+        "date_of_birth": "2016-05-14",
+        "gender": false,
+        "category": "Adult",
+        "premium": false
+    },
+    {
+        "customer_name": "Angela Bond",
+        "customer_id": "C031",
+        "date_of_birth": "1986-12-21",
+        "gender": true,
+        "category": "Adult",
+        "premium": false
+    },
+    {
+        "customer_name": "Joy Walker",
+        "customer_id": "C032",
+        "date_of_birth": "1962-06-04",
+        "gender": false,
+        "category": "Adult",
+        "premium": false
+    },
+    {
+        "customer_name": "Nicole Smith",
+        "customer_id": "C033",
+        "date_of_birth": "1952-12-12",
+        "gender": false,
+        "category": "Elder",
+        "premium": false
+    },
+    {
+        "customer_name": "Tyler Sims",
+        "customer_id": "C034",
+        "date_of_birth": "1976-04-23",
+        "gender": true,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Kelsey Mann",
+        "customer_id": "C035",
+        "date_of_birth": "1968-11-07",
+        "gender": true,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Christopher Mcdonald",
+        "customer_id": "C036",
+        "date_of_birth": "1932-11-09",
+        "gender": false,
+        "category": "Elder",
+        "premium": true
+    },
+    {
+        "customer_name": "Lisa Williams",
+        "customer_id": "C037",
+        "date_of_birth": "1931-02-23",
+        "gender": true,
+        "category": "Elder",
+        "premium": false
+    },
+    {
+        "customer_name": "Eric Williams",
+        "customer_id": "C038",
+        "date_of_birth": "2024-12-10",
+        "gender": true,
+        "category": "Adult",
+        "premium": false
+    },
+    {
+        "customer_name": "Christopher Hopkins",
+        "customer_id": "C039",
+        "date_of_birth": "2001-01-22",
+        "gender": true,
+        "category": "Adult",
+        "premium": false
+    },
+    {
+        "customer_name": "Robert Jackson",
+        "customer_id": "C040",
+        "date_of_birth": "2002-08-15",
+        "gender": false,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Marcus Baker",
+        "customer_id": "C041",
+        "date_of_birth": "1988-12-16",
+        "gender": true,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Mr. Blake Mendez DDS",
+        "customer_id": "C042",
+        "date_of_birth": "1973-04-03",
+        "gender": true,
+        "category": "Adult",
+        "premium": false
+    },
+    {
+        "customer_name": "Scott Gomez",
+        "customer_id": "C043",
+        "date_of_birth": "2014-12-15",
+        "gender": false,
+        "category": "Teenager",
+        "premium": true
+    },
+    {
+        "customer_name": "Joseph Walters",
+        "customer_id": "C044",
+        "date_of_birth": "1954-07-29",
+        "gender": true,
+        "category": "Elder",
+        "premium": false
+    },
+    {
+        "customer_name": "Bruce Anderson",
+        "customer_id": "C045",
+        "date_of_birth": "1972-09-25",
+        "gender": false,
+        "category": "Adult",
+        "premium": false
+    },
+    {
+        "customer_name": "Alex Koch",
+        "customer_id": "C046",
+        "date_of_birth": "2009-07-10",
+        "gender": true,
+        "category": "Teenager",
+        "premium": false
+    },
+    {
+        "customer_name": "Terry Mahoney",
+        "customer_id": "C047",
+        "date_of_birth": "2007-01-05",
+        "gender": false,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Matthew Jordan",
+        "customer_id": "C048",
+        "date_of_birth": "1979-02-06",
+        "gender": false,
+        "category": "Adult",
+        "premium": true
+    },
+    {
+        "customer_name": "Morgan Carroll",
+        "customer_id": "C049",
+        "date_of_birth": "2013-09-02",
+        "gender": true,
+        "category": "Teenager",
+        "premium": true
+    },
+    {
+        "customer_name": "Andrew Joseph",
+        "customer_id": "C050",
+        "date_of_birth": "1940-01-05",
+        "gender": false,
+        "category": "Elder",
+        "premium": true
+    }
+]
