@@ -17,7 +17,7 @@ class Customer:
         self.premium = premium
 
     def __str__(self):
-        return f"{self.name} ({self.CustID}, {self.date_of_birth}, {self.gender}, {self.category})"
+        return f"{self.customer_name} ({self.customer_id}, {self.date_of_birth}, {self.gender}, {self.category})"
 
     @staticmethod
     def calculate_age(date_of_birth):

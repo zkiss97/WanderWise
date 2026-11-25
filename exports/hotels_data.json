@@ -1,402 +1,402 @@
 [
     {
         "hotel_id": "H001",
-        "hotel_name": "Johnson Lodge",
-        "hotel_city": "Port Nicolemouth",
-        "hotel_country": "Honduras",
+        "hotel_name": "Hotel California",
+        "hotel_city": "Palm Springs",
+        "hotel_country": "US",
         "hotel_stars": 5,
-        "price_per_night": 318
+        "price_per_night": 666
     },
     {
         "hotel_id": "H002",
-        "hotel_name": "Coleman Lodge",
-        "hotel_city": "North Jessicaview",
-        "hotel_country": "Central African Republic",
-        "hotel_stars": 2,
-        "price_per_night": 194
+        "hotel_name": "Reid Resort",
+        "hotel_city": "South Ninaborough",
+        "hotel_country": "Italy",
+        "hotel_stars": 3,
+        "price_per_night": 438
     },
     {
         "hotel_id": "H003",
-        "hotel_name": "Hale Resort",
-        "hotel_city": "West Jose",
-        "hotel_country": "Cambodia",
-        "hotel_stars": 2,
-        "price_per_night": 226
+        "hotel_name": "Graves Hotel",
+        "hotel_city": "New Victoria",
+        "hotel_country": "United States Virgin Islands",
+        "hotel_stars": 4,
+        "price_per_night": 440
     },
     {
         "hotel_id": "H004",
-        "hotel_name": "Robinson Suites",
-        "hotel_city": "Kirkland",
-        "hotel_country": "Niger",
-        "hotel_stars": 4,
-        "price_per_night": 111
+        "hotel_name": "Galvan Suites",
+        "hotel_city": "Port Elizabeth",
+        "hotel_country": "Central African Republic",
+        "hotel_stars": 2,
+        "price_per_night": 236
     },
     {
         "hotel_id": "H005",
-        "hotel_name": "Gaines Resort",
-        "hotel_city": "Lake Amyfurt",
-        "hotel_country": "Solomon Islands",
-        "hotel_stars": 2,
-        "price_per_night": 385
+        "hotel_name": "Smith Suites",
+        "hotel_city": "Juliemouth",
+        "hotel_country": "Eritrea",
+        "hotel_stars": 5,
+        "price_per_night": 393
     },
     {
         "hotel_id": "H006",
-        "hotel_name": "Weber Suites",
-        "hotel_city": "Pattersonbury",
-        "hotel_country": "Ethiopia",
-        "hotel_stars": 4,
-        "price_per_night": 442
+        "hotel_name": "Ortiz Resort",
+        "hotel_city": "New Nancy",
+        "hotel_country": "Saint Barthelemy",
+        "hotel_stars": 5,
+        "price_per_night": 378
     },
     {
         "hotel_id": "H007",
-        "hotel_name": "Love Resort",
-        "hotel_city": "East Joanna",
-        "hotel_country": "Heard Island and McDonald Islands",
-        "hotel_stars": 5,
-        "price_per_night": 195
+        "hotel_name": "Johnson Resort",
+        "hotel_city": "South Thomasburgh",
+        "hotel_country": "Portugal",
+        "hotel_stars": 4,
+        "price_per_night": 137
     },
     {
         "hotel_id": "H008",
-        "hotel_name": "Turner Resort",
-        "hotel_city": "Wolfside",
-        "hotel_country": "Macao",
-        "hotel_stars": 5,
-        "price_per_night": 168
+        "hotel_name": "Ross Inn",
+        "hotel_city": "Paulbury",
+        "hotel_country": "Myanmar",
+        "hotel_stars": 3,
+        "price_per_night": 157
     },
     {
         "hotel_id": "H009",
-        "hotel_name": "Johnson Inn",
-        "hotel_city": "Reneeborough",
-        "hotel_country": "Chile",
-        "hotel_stars": 3,
-        "price_per_night": 448
-    },
-    {
-        "hotel_id": "H010",
-        "hotel_name": "Sanchez Inn",
-        "hotel_city": "Sancheztown",
-        "hotel_country": "Kenya",
-        "hotel_stars": 5,
-        "price_per_night": 431
-    },
-    {
-        "hotel_id": "H011",
-        "hotel_name": "Morrison Hotel",
-        "hotel_city": "Sampsonland",
-        "hotel_country": "Peru",
-        "hotel_stars": 2,
-        "price_per_night": 232
-    },
-    {
-        "hotel_id": "H012",
-        "hotel_name": "Stevens Resort",
-        "hotel_city": "Bradland",
-        "hotel_country": "Congo",
+        "hotel_name": "Anderson Lodge",
+        "hotel_city": "Sosamouth",
+        "hotel_country": "Sierra Leone",
         "hotel_stars": 4,
-        "price_per_night": 76
-    },
-    {
-        "hotel_id": "H013",
-        "hotel_name": "Hale Lodge",
-        "hotel_city": "East Christopher",
-        "hotel_country": "Mauritania",
-        "hotel_stars": 3,
         "price_per_night": 394
     },
     {
-        "hotel_id": "H014",
-        "hotel_name": "Scott Suites",
-        "hotel_city": "West Jose",
-        "hotel_country": "Benin",
+        "hotel_id": "H010",
+        "hotel_name": "Brown Resort",
+        "hotel_city": "North Allison",
+        "hotel_country": "Poland",
+        "hotel_stars": 5,
+        "price_per_night": 425
+    },
+    {
+        "hotel_id": "H011",
+        "hotel_name": "Mccarty Lodge",
+        "hotel_city": "Lake John",
+        "hotel_country": "Anguilla",
+        "hotel_stars": 4,
+        "price_per_night": 161
+    },
+    {
+        "hotel_id": "H012",
+        "hotel_name": "Hensley Resort",
+        "hotel_city": "Nathanton",
+        "hotel_country": "Mayotte",
+        "hotel_stars": 5,
+        "price_per_night": 104
+    },
+    {
+        "hotel_id": "H013",
+        "hotel_name": "Martin Lodge",
+        "hotel_city": "Palmerton",
+        "hotel_country": "Rwanda",
         "hotel_stars": 3,
-        "price_per_night": 172
+        "price_per_night": 498
+    },
+    {
+        "hotel_id": "H014",
+        "hotel_name": "Phillips Resort",
+        "hotel_city": "West Stephanieview",
+        "hotel_country": "United States Minor Outlying Islands",
+        "hotel_stars": 4,
+        "price_per_night": 176
     },
     {
         "hotel_id": "H015",
-        "hotel_name": "Mendoza Hotel",
-        "hotel_city": "Moralesshire",
-        "hotel_country": "Cyprus",
-        "hotel_stars": 5,
-        "price_per_night": 300
+        "hotel_name": "Brown Hotel",
+        "hotel_city": "Nicholsstad",
+        "hotel_country": "Christmas Island",
+        "hotel_stars": 2,
+        "price_per_night": 176
     },
     {
         "hotel_id": "H016",
-        "hotel_name": "Harris Hotel",
-        "hotel_city": "Brianburgh",
-        "hotel_country": "Saint Helena",
-        "hotel_stars": 5,
-        "price_per_night": 346
+        "hotel_name": "Warner Inn",
+        "hotel_city": "South Natashabury",
+        "hotel_country": "Poland",
+        "hotel_stars": 3,
+        "price_per_night": 367
     },
     {
         "hotel_id": "H017",
-        "hotel_name": "Wilson Inn",
-        "hotel_city": "Sarahmouth",
-        "hotel_country": "Kyrgyz Republic",
+        "hotel_name": "Newman Hotel",
+        "hotel_city": "East Julia",
+        "hotel_country": "Mozambique",
         "hotel_stars": 3,
-        "price_per_night": 148
+        "price_per_night": 154
     },
     {
         "hotel_id": "H018",
-        "hotel_name": "Henderson Hotel",
-        "hotel_city": "Laurenport",
-        "hotel_country": "Kenya",
+        "hotel_name": "Flowers Lodge",
+        "hotel_city": "Drewborough",
+        "hotel_country": "Seychelles",
         "hotel_stars": 5,
-        "price_per_night": 364
+        "price_per_night": 485
     },
     {
         "hotel_id": "H019",
-        "hotel_name": "Robbins Hotel",
-        "hotel_city": "North Brittanyside",
-        "hotel_country": "Canada",
-        "hotel_stars": 3,
-        "price_per_night": 119
+        "hotel_name": "Reid Hotel",
+        "hotel_city": "Port Pamelahaven",
+        "hotel_country": "Kuwait",
+        "hotel_stars": 2,
+        "price_per_night": 253
     },
     {
         "hotel_id": "H020",
-        "hotel_name": "Parsons Hotel",
-        "hotel_city": "Patriciachester",
-        "hotel_country": "Malaysia",
-        "hotel_stars": 4,
-        "price_per_night": 222
+        "hotel_name": "Rivera Suites",
+        "hotel_city": "South Sharontown",
+        "hotel_country": "Brunei Darussalam",
+        "hotel_stars": 3,
+        "price_per_night": 216
     },
     {
         "hotel_id": "H021",
-        "hotel_name": "Phillips Hotel",
-        "hotel_city": "Port Joannaland",
-        "hotel_country": "Dominican Republic",
+        "hotel_name": "Brock Resort",
+        "hotel_city": "South Matthew",
+        "hotel_country": "Saint Barthelemy",
         "hotel_stars": 5,
-        "price_per_night": 320
+        "price_per_night": 278
     },
     {
         "hotel_id": "H022",
-        "hotel_name": "Watson Resort",
-        "hotel_city": "New Danachester",
-        "hotel_country": "North Macedonia",
-        "hotel_stars": 3,
-        "price_per_night": 239
+        "hotel_name": "Tate Inn",
+        "hotel_city": "Diazchester",
+        "hotel_country": "Marshall Islands",
+        "hotel_stars": 2,
+        "price_per_night": 61
     },
     {
         "hotel_id": "H023",
-        "hotel_name": "Pearson Lodge",
-        "hotel_city": "Melissafurt",
-        "hotel_country": "Holy See (Vatican City State)",
+        "hotel_name": "Smith Suites",
+        "hotel_city": "West Sierramouth",
+        "hotel_country": "Uganda",
         "hotel_stars": 2,
-        "price_per_night": 206
+        "price_per_night": 51
     },
     {
         "hotel_id": "H024",
-        "hotel_name": "Hernandez Resort",
-        "hotel_city": "South Marcia",
-        "hotel_country": "Haiti",
-        "hotel_stars": 5,
-        "price_per_night": 470
+        "hotel_name": "Evans Inn",
+        "hotel_city": "Laurafurt",
+        "hotel_country": "Suriname",
+        "hotel_stars": 3,
+        "price_per_night": 117
     },
     {
         "hotel_id": "H025",
-        "hotel_name": "Wong Resort",
-        "hotel_city": "Robinsonport",
-        "hotel_country": "Botswana",
+        "hotel_name": "Rowe Suites",
+        "hotel_city": "North Carol",
+        "hotel_country": "Malawi",
         "hotel_stars": 4,
-        "price_per_night": 85
+        "price_per_night": 248
     },
     {
         "hotel_id": "H026",
-        "hotel_name": "Davis Suites",
-        "hotel_city": "Lake Aprilbury",
-        "hotel_country": "Zambia",
-        "hotel_stars": 5,
-        "price_per_night": 184
+        "hotel_name": "Shah Hotel",
+        "hotel_city": "Jessicafort",
+        "hotel_country": "Bahrain",
+        "hotel_stars": 2,
+        "price_per_night": 287
     },
     {
         "hotel_id": "H027",
-        "hotel_name": "Williamson Suites",
-        "hotel_city": "Martinezchester",
-        "hotel_country": "Malaysia",
-        "hotel_stars": 3,
-        "price_per_night": 167
+        "hotel_name": "Roberts Suites",
+        "hotel_city": "New Jamesfort",
+        "hotel_country": "Solomon Islands",
+        "hotel_stars": 5,
+        "price_per_night": 417
     },
     {
         "hotel_id": "H028",
-        "hotel_name": "Russell Inn",
-        "hotel_city": "Foxmouth",
-        "hotel_country": "United States of America",
-        "hotel_stars": 3,
-        "price_per_night": 461
+        "hotel_name": "Sanchez Inn",
+        "hotel_city": "Carlamouth",
+        "hotel_country": "Sweden",
+        "hotel_stars": 5,
+        "price_per_night": 495
     },
     {
         "hotel_id": "H029",
-        "hotel_name": "Richards Inn",
-        "hotel_city": "South Kylie",
-        "hotel_country": "Suriname",
-        "hotel_stars": 3,
-        "price_per_night": 113
+        "hotel_name": "Olson Inn",
+        "hotel_city": "East Lindsay",
+        "hotel_country": "Chad",
+        "hotel_stars": 2,
+        "price_per_night": 346
     },
     {
         "hotel_id": "H030",
-        "hotel_name": "Miller Hotel",
-        "hotel_city": "East Virginiaburgh",
-        "hotel_country": "Chad",
-        "hotel_stars": 4,
-        "price_per_night": 447
+        "hotel_name": "Thompson Suites",
+        "hotel_city": "Port Robert",
+        "hotel_country": "Spain",
+        "hotel_stars": 5,
+        "price_per_night": 179
     },
     {
         "hotel_id": "H031",
-        "hotel_name": "Jensen Inn",
-        "hotel_city": "Gonzalezstad",
-        "hotel_country": "Uruguay",
-        "hotel_stars": 4,
-        "price_per_night": 162
+        "hotel_name": "Miller Resort",
+        "hotel_city": "Stewartside",
+        "hotel_country": "Aruba",
+        "hotel_stars": 2,
+        "price_per_night": 149
     },
     {
         "hotel_id": "H032",
-        "hotel_name": "Hudson Suites",
-        "hotel_city": "North Austinburgh",
-        "hotel_country": "Liechtenstein",
-        "hotel_stars": 4,
-        "price_per_night": 330
+        "hotel_name": "Castro Resort",
+        "hotel_city": "West Ashleyhaven",
+        "hotel_country": "Guernsey",
+        "hotel_stars": 2,
+        "price_per_night": 390
     },
     {
         "hotel_id": "H033",
-        "hotel_name": "Gallagher Suites",
-        "hotel_city": "Millshaven",
-        "hotel_country": "Sierra Leone",
-        "hotel_stars": 3,
-        "price_per_night": 294
+        "hotel_name": "Jones Resort",
+        "hotel_city": "Davidsonbury",
+        "hotel_country": "Bulgaria",
+        "hotel_stars": 2,
+        "price_per_night": 93
     },
     {
         "hotel_id": "H034",
-        "hotel_name": "Vasquez Inn",
-        "hotel_city": "Port Mark",
-        "hotel_country": "Benin",
-        "hotel_stars": 3,
-        "price_per_night": 165
+        "hotel_name": "Hunt Resort",
+        "hotel_city": "Port Amy",
+        "hotel_country": "Saint Pierre and Miquelon",
+        "hotel_stars": 4,
+        "price_per_night": 433
     },
     {
         "hotel_id": "H035",
-        "hotel_name": "Daniels Lodge",
-        "hotel_city": "East Sarah",
-        "hotel_country": "Tonga",
-        "hotel_stars": 4,
-        "price_per_night": 225
+        "hotel_name": "Burns Hotel",
+        "hotel_city": "East Eugeneside",
+        "hotel_country": "Aruba",
+        "hotel_stars": 3,
+        "price_per_night": 205
     },
     {
         "hotel_id": "H036",
-        "hotel_name": "Ayala Suites",
-        "hotel_city": "Lake Nathanbury",
-        "hotel_country": "Egypt",
+        "hotel_name": "Smith Resort",
+        "hotel_city": "Port Alisonborough",
+        "hotel_country": "Bahamas",
         "hotel_stars": 5,
-        "price_per_night": 108
+        "price_per_night": 442
     },
     {
         "hotel_id": "H037",
-        "hotel_name": "Velasquez Suites",
-        "hotel_city": "Batestown",
-        "hotel_country": "Timor-Leste",
-        "hotel_stars": 2,
-        "price_per_night": 301
+        "hotel_name": "Carter Inn",
+        "hotel_city": "Taylorland",
+        "hotel_country": "Dominican Republic",
+        "hotel_stars": 5,
+        "price_per_night": 498
     },
     {
         "hotel_id": "H038",
-        "hotel_name": "Sanders Lodge",
-        "hotel_city": "Karenbury",
-        "hotel_country": "El Salvador",
-        "hotel_stars": 5,
-        "price_per_night": 399
+        "hotel_name": "Haynes Lodge",
+        "hotel_city": "West Kristinaside",
+        "hotel_country": "Bahrain",
+        "hotel_stars": 3,
+        "price_per_night": 418
     },
     {
         "hotel_id": "H039",
-        "hotel_name": "Carrillo Lodge",
-        "hotel_city": "East Danielmouth",
-        "hotel_country": "Botswana",
+        "hotel_name": "May Resort",
+        "hotel_city": "Edwardmouth",
+        "hotel_country": "San Marino",
         "hotel_stars": 2,
-        "price_per_night": 130
+        "price_per_night": 228
     },
     {
         "hotel_id": "H040",
-        "hotel_name": "Martin Resort",
-        "hotel_city": "Port Lindaton",
-        "hotel_country": "United States Virgin Islands",
-        "hotel_stars": 4,
-        "price_per_night": 468
+        "hotel_name": "Wood Inn",
+        "hotel_city": "New Jessica",
+        "hotel_country": "Myanmar",
+        "hotel_stars": 3,
+        "price_per_night": 386
     },
     {
         "hotel_id": "H041",
-        "hotel_name": "Shelton Lodge",
-        "hotel_city": "Blackside",
-        "hotel_country": "Seychelles",
-        "hotel_stars": 4,
-        "price_per_night": 309
+        "hotel_name": "Thompson Resort",
+        "hotel_city": "Lake Loganfurt",
+        "hotel_country": "North Macedonia",
+        "hotel_stars": 3,
+        "price_per_night": 274
     },
     {
         "hotel_id": "H042",
-        "hotel_name": "Carrillo Inn",
-        "hotel_city": "Smithport",
-        "hotel_country": "Togo",
+        "hotel_name": "Kim Lodge",
+        "hotel_city": "East David",
+        "hotel_country": "Botswana",
         "hotel_stars": 3,
-        "price_per_night": 69
+        "price_per_night": 124
     },
     {
         "hotel_id": "H043",
-        "hotel_name": "Taylor Hotel",
-        "hotel_city": "Johnshire",
-        "hotel_country": "Austria",
-        "hotel_stars": 4,
-        "price_per_night": 132
+        "hotel_name": "Garcia Suites",
+        "hotel_city": "Lake Paul",
+        "hotel_country": "Pitcairn Islands",
+        "hotel_stars": 5,
+        "price_per_night": 84
     },
     {
         "hotel_id": "H044",
-        "hotel_name": "Vega Lodge",
-        "hotel_city": "Barnettborough",
-        "hotel_country": "Nigeria",
-        "hotel_stars": 5,
-        "price_per_night": 310
+        "hotel_name": "Potts Hotel",
+        "hotel_city": "West Cynthiachester",
+        "hotel_country": "Nauru",
+        "hotel_stars": 3,
+        "price_per_night": 204
     },
     {
         "hotel_id": "H045",
-        "hotel_name": "Peterson Lodge",
-        "hotel_city": "Watsonchester",
-        "hotel_country": "Svalbard & Jan Mayen Islands",
-        "hotel_stars": 4,
-        "price_per_night": 259
+        "hotel_name": "Williams Lodge",
+        "hotel_city": "Port Matthew",
+        "hotel_country": "Ethiopia",
+        "hotel_stars": 3,
+        "price_per_night": 110
     },
     {
         "hotel_id": "H046",
-        "hotel_name": "Thompson Resort",
-        "hotel_city": "Garzafurt",
-        "hotel_country": "Sudan",
-        "hotel_stars": 5,
-        "price_per_night": 499
+        "hotel_name": "Jones Inn",
+        "hotel_city": "Port Alexanderburgh",
+        "hotel_country": "Belize",
+        "hotel_stars": 3,
+        "price_per_night": 221
     },
     {
         "hotel_id": "H047",
-        "hotel_name": "Gibbs Lodge",
-        "hotel_city": "Adamside",
-        "hotel_country": "Senegal",
-        "hotel_stars": 5,
-        "price_per_night": 470
+        "hotel_name": "Velasquez Lodge",
+        "hotel_city": "Lake Dylanfort",
+        "hotel_country": "Northern Mariana Islands",
+        "hotel_stars": 3,
+        "price_per_night": 436
     },
     {
         "hotel_id": "H048",
-        "hotel_name": "Yates Suites",
-        "hotel_city": "West Jennifer",
-        "hotel_country": "Paraguay",
-        "hotel_stars": 3,
-        "price_per_night": 265
+        "hotel_name": "Adams Suites",
+        "hotel_city": "Port Keithport",
+        "hotel_country": "Wallis and Futuna",
+        "hotel_stars": 2,
+        "price_per_night": 153
     },
     {
         "hotel_id": "H049",
-        "hotel_name": "Johnson Inn",
-        "hotel_city": "Bennettmouth",
-        "hotel_country": "Congo",
+        "hotel_name": "Marsh Resort",
+        "hotel_city": "Harristown",
+        "hotel_country": "Sri Lanka",
         "hotel_stars": 2,
-        "price_per_night": 406
+        "price_per_night": 204
     },
     {
         "hotel_id": "H050",
-        "hotel_name": "Herring Resort",
-        "hotel_city": "Nicolemouth",
-        "hotel_country": "Bermuda",
-        "hotel_stars": 4,
-        "price_per_night": 408
+        "hotel_name": "Clark Hotel",
+        "hotel_city": "Jasonburgh",
+        "hotel_country": "Spain",
+        "hotel_stars": 3,
+        "price_per_night": 189
     }
 ]
